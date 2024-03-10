@@ -1,0 +1,7 @@
+aws:
+  config:
+    accessKey: TVGYJDFSJF65Y6HTF665GGHF
+    secretKey: gndh/65fvrt+grdhtd66566+gnc+75ggcfcfb/ngv
+    region: AP_SOUTH_1
+    bucket: app-logs-bucket
+    envFolder: qa

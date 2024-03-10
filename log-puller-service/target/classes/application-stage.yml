@@ -1,0 +1,7 @@
+aws:
+  config:
+    accessKey: GRGVJHCFGVH677FHHGVGNG6
+    secretKey: jhfh/65fvrt+ghdfhdfhd+gnc+gcghhg67/ngn
+    region: AP_SOUTH_1
+    bucket: app-logs-bucket
+    envFolder: stage

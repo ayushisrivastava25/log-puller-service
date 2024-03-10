@@ -1,0 +1,7 @@
+aws:
+  config:
+    accessKey: ACCESS_KEY
+    secretKey: SECRET_KEY
+    region: AP_SOUTH_1
+    bucket: app-logs-bucket
+    envFolder: prod
